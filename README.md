@@ -1,5 +1,5 @@
 
-# SourceScore Under development
+# SourceScore **Under Development**
 
 
 ## Overview
@@ -17,10 +17,10 @@ Instructions for setting up SourceScore in your environment.
 
 ```shell
 # Clone the repository
-git clone [repository URL]
+git clone https://github.com/latent-variable/AI-SourceScoring
 
 # Navigate to the repository
-cd SourceScore
+cd AI-SourceScore
 
 # Install dependencies
 pip install -r requirements.txt
@@ -36,10 +36,10 @@ A quick guide on how to use SourceScore.
 ```
 
 ## Contributing
-We welcome contributions from the community. Please read our contributing guide for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions from the community. 
 
 ## License
-This project is licensed under GPL - see the LICENSE.md file for details.
+This project is licensed under GPL-3.0 license - see the LICENSE.md file for details.
 
 ## Acknowledgements
 - GPT-4 by OpenAI for AI and NLP capabilities.
@@ -47,7 +47,7 @@ This project is licensed under GPL - see the LICENSE.md file for details.
 - [Any other acknowledgements]
 
 ## Contact
-- Maintainer: latent-variable
+- Maintainer: [latent-variable](https://github.com/latent-variable)
 - Email: lino.valdovinos.cs@gmail.com
 - Project Link: https://github.com/latent-variable/AI-SourceScoring
 
